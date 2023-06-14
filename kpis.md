@@ -7,3 +7,4 @@
 #   b. Improve Delivery of time to Market products
 # 3. Improved Customer Satisfaction and Retention
 #   a. Target Uptime of Systems and APIs by 95% of the time.
+##  b. Add Disaster Recovery and Redundancy
